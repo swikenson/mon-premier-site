@@ -13,6 +13,8 @@
 <p>Je suis dans ma page index - une nouvelle ligne</p>
 
 <p>Je suis dans ma page index - une ligne pour l'interface graphique</p>
+    
+    <p>Je suis dans ma page index - une ligne ajouter depuis github</p>
 
 </body>
 
