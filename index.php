@@ -10,6 +10,8 @@
 <body>
 <p>Je suis dans ma page index</p>
 
+<p>Je suis dans ma page index - une nouvelle ligne</p>
+
 </body>
 
 </html>
